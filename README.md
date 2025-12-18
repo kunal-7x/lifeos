@@ -61,10 +61,10 @@ Welcome to **LIFE OS** — a beautifully crafted, all-in-one productivity & self
 
 ## ⚙️ How to Run
 
-git clone  
-cd lifeos
-npm install
-npm run dev
+* git clone  https://github.com/kunal-7x/lifeos.git
+*cd lifeos
+*npm install
+*npm run dev
 
 ---
 
