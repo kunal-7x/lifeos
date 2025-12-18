@@ -3,7 +3,7 @@
 
 # 🌟 Life os is Your Ultimate Life Dashboard
 
-Welcome to **HabitVerse** — a beautifully crafted, all-in-one productivity & self-growth platform built with love. 
+Welcome to **LIFE OS** — a beautifully crafted, all-in-one productivity & self-growth platform built with love. 
 
  
 ---
@@ -69,7 +69,7 @@ Welcome to **HabitVerse** — a beautifully crafted, all-in-one productivity & s
 ## ⚙️ How to Run
 
 git clone  
-cd habitverse
+cd lifeos
 npm install
 npm run dev
 
