@@ -13,7 +13,7 @@ import SecondBrain from "./pages/SecondBrain";
 import Notes from "./pages/Notes";
 import Analytics from "./pages/Analytics";
 import Achievements from "./pages/Achievements";
-import Squad from "./pages/Squad";
+// import Squad from "./pages/Squad";
 import Goals from "./pages/Goals";
 import Notifications from "./pages/Notifications";
 import Settings from "./pages/Settings";
@@ -39,7 +39,7 @@ const App = () => (
             <Route path="notes" element={<Notes />} />
             <Route path="analytics" element={<Analytics />} />
             <Route path="achievements" element={<Achievements />} />
-            <Route path="squad" element={<Squad />} />
+            {/* <Route path="squad" element={<Squad />} /> */}
             <Route path="goals" element={<Goals />} />
             <Route path="notifications" element={<Notifications />} />
             <Route path="utilities" element={<Utilities />} />
