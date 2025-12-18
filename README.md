@@ -60,12 +60,10 @@ Welcome to **LIFE OS** — a beautifully crafted, all-in-one productivity & self
 ---
 
 ## ⚙️ How to Run
-
-* git clone  https://github.com/kunal-7x/lifeos.git
-*cd lifeos
-*npm install
-*npm run dev
-
----
+🔹 **git clone  https://github.com/kunal-7x/lifeos.git**
+🔹 **cd lifeos**
+🔹 **npm install**
+🔹 **npm run dev**
+ 
 
 Let me know if you want a README version with badges, dark mode toggle docs, GitHub Pages deployment instructions, or contribution guidelines.
