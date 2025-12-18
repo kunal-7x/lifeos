@@ -41,14 +41,7 @@ Welcome to **LIFE OS** — a beautifully crafted, all-in-one productivity & self
 
 🔹 **Achievements**
 • Track personal wins and celebrate milestones
-
-🔹 **Squad**
-• Add accountability buddies (mock data, no real backend)
-• Show mutual goals and badges
-
-🔹 **Focus Mode**
-• Distraction blocker, focus timers (Pomodoro, Deep Focus)
-• Fullscreen zen environment
+ 
 
 🔹 **Utilities**
 • Tools like quote generator, timers, ambient music toggles
